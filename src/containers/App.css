@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'Lovely Kei Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Lovely Kei Regular'), url('Lovely Kei.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Lovely Kei', sans-serif;
+	text-shadow: 2px 2px darkgrey;
+}
