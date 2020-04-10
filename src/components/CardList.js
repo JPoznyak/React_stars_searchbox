@@ -18,6 +18,6 @@ const CardList = ({ stars }) => {
 			}
 		</div>
 	);
-}
+};
 
 export default CardList;
